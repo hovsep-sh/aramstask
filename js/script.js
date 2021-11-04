@@ -1,6 +1,7 @@
 "use strict";
 
 // TODO add set interval to slider
+// ok Aram I will wait for your update
 
 const images  = document.querySelectorAll(".img"),
       btnPrev = document.querySelector("#prev"),
