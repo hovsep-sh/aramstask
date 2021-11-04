@@ -1,5 +1,7 @@
 "use strict";
 
+// TODO add set interval to slider
+
 const images  = document.querySelectorAll(".img"),
       btnPrev = document.querySelector("#prev"),
       btnNext = document.querySelector("#next");
