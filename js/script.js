@@ -36,3 +36,7 @@ btnPrev.addEventListener("mouseup", (evt) => {
     }
     images[i].classList.toggle("hide");
 });
+
+setInterval(() => {
+
+},  2000);
