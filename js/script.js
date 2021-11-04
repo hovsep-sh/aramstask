@@ -38,5 +38,5 @@ btnPrev.addEventListener("mouseup", (evt) => {
 });
 
 setInterval(() => {
-    console.log(1);
+    console.log(2);
 },  2000);
